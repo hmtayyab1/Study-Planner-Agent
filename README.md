@@ -19,8 +19,11 @@ Color-coded schedule cards based on priority and break sessions.
 # Requirements
 
 Python 3.10+
+
 Flask
+
 GROQ API Key
+
 python-dotenv
 
 # Technologies Used
