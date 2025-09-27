@@ -18,18 +18,6 @@ Flask
 GROQ API Key
 python-dotenv
 
-# Project Structure
-
-ai-study-scheduler/
-│
-├── app.py            # Main Flask application
-├── templates/
-│   └── index.html    # Frontend HTML template
-├── static/
-│   └── style.css     # CSS styling
-├── .env              # Environment variables
-├── requirements.txt  # Python dependencies
-
 # Technologies Used
 
 Python & Flask – Web framework for routing and rendering templates.
